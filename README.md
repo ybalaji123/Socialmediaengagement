@@ -88,7 +88,7 @@ A company lacks insights into its social media interactions. This project aims t
 ---
 
 ## Dataset
-Dataset: [link]()
+Dataset: [link](https://github.com/ybalaji123/Socialmediaengagement/blob/main/social_media_engagement_dataset_Clean_data.csv)
 ## 📊 Excel Dashboard
 ![Alt Text](https://github.com/ybalaji123/Socialmediaengagement/blob/main/Screenshot%202025-06-11%20151954.png)
 ## 🙋 Author
