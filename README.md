@@ -1,6 +1,8 @@
 
 # 📊 Social Media Engagement Analysis
 
+![Alt text](https://github.com/ybalaji123/Socialmediaengagement/blob/main/Social_media_logo.webp)
+---
 This project is part of the **Data Analytics Internship** at Pratinik Infotech. It focuses on analyzing social media performance using Excel to derive actionable insights, visualize engagement trends, and suggest content optimization strategies.
 
 ---
