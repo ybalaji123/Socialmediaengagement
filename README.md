@@ -86,8 +86,11 @@ A company lacks insights into its social media interactions. This project aims t
 ```
 
 ---
+
+## Dataset
+Dataset: [link]()
 ## 📊 Excel Dashboard
-(https://github.com/ybalaji123/Socialmediaengagement/blob/main/Screenshot%202025-06-11%20151954.png)
+![Alt Text](https://github.com/ybalaji123/Socialmediaengagement/blob/main/Screenshot%202025-06-11%20151954.png)
 ## 🙋 Author
 
 **Yemineni Balaji**  
