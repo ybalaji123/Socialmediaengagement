@@ -98,26 +98,36 @@ Dataset: [link](https://github.com/ybalaji123/Socialmediaengagement/blob/main/so
 The Social Media Engagement Dashboard provides a visual summary of key metrics and patterns across multiple platforms to help understand user behavior and optimize content strategy. It was built using Microsoft Excel with Pivot Tables, charts, and slicers.
 
 **Key Components:**
-Total Posts: Displays the total number of social media posts analyzed (50,001).
+**Total Posts:** 
+Displays the total number of social media posts analyzed (50,001).
 
-Best Day to Post: Indicates that Wednesday received the highest engagement.
+**Best Day to Post:** 
+Indicates that Wednesday received the highest engagement.
 
-Average Engagement Rate: Shows the average rate of user interaction per post (4.80%).
+**Average Engagement Rate:** 
+Shows the average rate of user interaction per post (4.80%).
 
-Best Performing Platform: Identifies Instagram as the platform with the best engagement.
+**Best Performing Platform:** 
+Identifies Instagram as the platform with the best engagement.
 
 **Charts & Visuals:**
-Engagement by Platform: A clustered column chart comparing user interactions (likes, shares, comments) across platforms like Facebook, Instagram, LinkedIn, and Twitter.
+**Engagement by Platform:** 
+A clustered column chart comparing user interactions (likes, shares, comments) across platforms like Facebook, Instagram, LinkedIn, and Twitter.
 
-Engagement Over Time: A line chart showing engagement trends month by month, highlighting seasonal or temporal variations.
+**Engagement Over Time:** 
+A line chart showing engagement trends month by month, highlighting seasonal or temporal variations.
 
-Engagement by Post Type: A pie chart analyzing the effectiveness of content types such as Video, Image, Text, Reel, and Story.
+**Engagement by Post Type:** 
+A pie chart analyzing the effectiveness of content types such as Video, Image, Text, Reel, and Story.
 
-Year by Count: A bar chart comparing the number of posts published across years (2024 vs. 2025).
+**Year by Count:** 
+A bar chart comparing the number of posts published across years (2024 vs. 2025).
 
-Monthly Engagement: A horizontal bar chart showing how engagement varies by month.
+**Monthly Engagement:** 
+A horizontal bar chart showing how engagement varies by month.
 
-Date Slicer: An interactive filter that allows users to narrow down data by specific years or time frames.
+**Date Slicer:** 
+An interactive filter that allows users to narrow down data by specific years or time frames.
 
 ## 🙋 Author
 
