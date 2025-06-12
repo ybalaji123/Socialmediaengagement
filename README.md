@@ -93,6 +93,32 @@ A company lacks insights into its social media interactions. This project aims t
 Dataset: [link](https://github.com/ybalaji123/Socialmediaengagement/blob/main/social_media_engagement_dataset_Clean_data.csv)
 ## 📊 Excel Dashboard
 ![Alt Text](https://github.com/ybalaji123/Socialmediaengagement/blob/main/Screenshot%202025-06-11%20191649.png)
+
+## Dashboard Explanation
+The Social Media Engagement Dashboard provides a visual summary of key metrics and patterns across multiple platforms to help understand user behavior and optimize content strategy. It was built using Microsoft Excel with Pivot Tables, charts, and slicers.
+
+🔹 Key Components:
+Total Posts: Displays the total number of social media posts analyzed (50,001).
+
+Best Day to Post: Indicates that Wednesday received the highest engagement.
+
+Average Engagement Rate: Shows the average rate of user interaction per post (4.80%).
+
+Best Performing Platform: Identifies Instagram as the platform with the best engagement.
+
+🔹 Charts & Visuals:
+Engagement by Platform: A clustered column chart comparing user interactions (likes, shares, comments) across platforms like Facebook, Instagram, LinkedIn, and Twitter.
+
+Engagement Over Time: A line chart showing engagement trends month by month, highlighting seasonal or temporal variations.
+
+Engagement by Post Type: A pie chart analyzing the effectiveness of content types such as Video, Image, Text, Reel, and Story.
+
+Year by Count: A bar chart comparing the number of posts published across years (2024 vs. 2025).
+
+Monthly Engagement: A horizontal bar chart showing how engagement varies by month.
+
+Date Slicer: An interactive filter that allows users to narrow down data by specific years or time frames.
+
 ## 🙋 Author
 
 **Yemineni Balaji**  
