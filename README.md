@@ -97,7 +97,7 @@ Dataset: [link](https://github.com/ybalaji123/Socialmediaengagement/blob/main/so
 ## Dashboard Explanation
 The Social Media Engagement Dashboard provides a visual summary of key metrics and patterns across multiple platforms to help understand user behavior and optimize content strategy. It was built using Microsoft Excel with Pivot Tables, charts, and slicers.
 
-🔹 Key Components:
+**Key Components:**
 Total Posts: Displays the total number of social media posts analyzed (50,001).
 
 Best Day to Post: Indicates that Wednesday received the highest engagement.
@@ -106,7 +106,7 @@ Average Engagement Rate: Shows the average rate of user interaction per post (4.
 
 Best Performing Platform: Identifies Instagram as the platform with the best engagement.
 
-🔹 Charts & Visuals:
+**Charts & Visuals:**
 Engagement by Platform: A clustered column chart comparing user interactions (likes, shares, comments) across platforms like Facebook, Instagram, LinkedIn, and Twitter.
 
 Engagement Over Time: A line chart showing engagement trends month by month, highlighting seasonal or temporal variations.
